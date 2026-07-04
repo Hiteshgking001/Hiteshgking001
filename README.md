@@ -97,7 +97,7 @@ currently: "Building things, breaking things, fixing things 🔧"
   <img src="https://raw.githubusercontent.com/HiteshgKing001/HiteshgKing001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-> **Note:** the snake animation needs a one-time setup — a small GitHub Action that generates it automatically every day. Just say the word and I'll write the workflow file for you to drop into your repo.
+
 
 ---
 
